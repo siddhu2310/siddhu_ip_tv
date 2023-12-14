@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-id=ts22 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52679-k7zx7qqg-v1/imageContent-52679-k7zx7qqg-m2.png" group-title="Tata Sky",News World India
 http://rftv.wtf/tp/rjiptv.mpd?contentID=22
 
+#EXTINF:-1 tvg-id=ts2362 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil",Vijay Super
+http://livetvbox.live:8080/live/Stanley/Stanley/1614.ts
+
+#EXTINF:-1 tvg-id=ts23962 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil",Vijay Super
+http://starshare.live:8080/live/123456/654321/1614.ts
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=1080&key
 #EXTINF:-1 tvg-id=ts1080 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/UBANTV_Thumbnail-v1/UBANTV_Thumbnail.png" group-title="Tata Sky",U Bangla TV
@@ -990,27 +996,27 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=647
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=425&key
-#EXTINF:-1 tvg-id=ts425 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11682-j9khxjoo-v1/imageContent-11682-j9khxjoo-m1.png" group-title="Tata Sky",Raj Musix
+#EXTINF:-1 tvg-id=ts425 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11682-j9khxjoo-v1/imageContent-11682-j9khxjoo-m1.png" group-title="Tamil",Raj Musix
 http://rftv.wtf/tp/rjiptv.mpd?contentID=425
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=199&key
-#EXTINF:-1 tvg-id=ts199 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png" group-title="Tata Sky",Jaya Max
+#EXTINF:-1 tvg-id=ts199 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png" group-title="Tamil",Jaya Max
 http://rftv.wtf/tp/rjiptv.mpd?contentID=199
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=334&key
-#EXTINF:-1 tvg-id=ts334 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11369-j9jpvzjs-v1/imageContent-11369-j9jpvzjs-m1.png" group-title="Tata Sky",DD Podhigai
+#EXTINF:-1 tvg-id=ts334 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11369-j9jpvzjs-v1/imageContent-11369-j9jpvzjs-m1.png" group-title="Tamil",DD Podhigai
 http://rftv.wtf/tp/rjiptv.mpd?contentID=334
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=968&key
-#EXTINF:-1 tvg-id=ts968 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png" group-title="Tata Sky",News Tamil 24x7
+#EXTINF:-1 tvg-id=ts968 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png" group-title="Tamil",News Tamil 24x7
 http://rftv.wtf/tp/rjiptv.mpd?contentID=968
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=702&key
-#EXTINF:-1 tvg-id=ts702 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37207-jswmhmpk-v1/imageContent-37207-jswmhmpk-m1.PNG" group-title="Tata Sky",News J
+#EXTINF:-1 tvg-id=ts702 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37207-jswmhmpk-v1/imageContent-37207-jswmhmpk-m1.PNG" group-title="Tamil",News J
 http://rftv.wtf/tp/rjiptv.mpd?contentID=702
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1020,17 +1026,17 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=391
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=455&key
-#EXTINF:-1 tvg-id=ts455 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11764-j9kwqj6o-v1/imageContent-11764-j9kwqj6o-m1.png" group-title="Tata Sky",Sathiyam TV
+#EXTINF:-1 tvg-id=ts455 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11764-j9kwqj6o-v1/imageContent-11764-j9kwqj6o-m1.png" group-title="Tamil",Sathiyam TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=455
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=525&key
-#EXTINF:-1 tvg-id=ts525 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png" group-title="Tata Sky",Raj News Tamil
+#EXTINF:-1 tvg-id=ts525 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png" group-title="Tamil",Raj News Tamil
 http://rftv.wtf/tp/rjiptv.mpd?contentID=525
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=44&key
-#EXTINF:-1 tvg-id=ts44 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-126-j5fnf4ig-v2/imageContent-126-j5fnf4ig-m2.png" group-title="Tata Sky",Seithigal TV
+#EXTINF:-1 tvg-id=ts44 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-126-j5fnf4ig-v2/imageContent-126-j5fnf4ig-m2.png" group-title="Tamil",Seithigal TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=44
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1080,27 +1086,27 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=201
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=380&key
-#EXTINF:-1 tvg-id=ts380 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="Tata Sky",KTV HD
+#EXTINF:-1 tvg-id=ts380 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="Tamil",KTV HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=380
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=659&key
-#EXTINF:-1 tvg-id=ts659 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png" group-title="Tata Sky",Vendhar TV
+#EXTINF:-1 tvg-id=ts659 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png" group-title="Tamil",Vendhar TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=659
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=392&key
-#EXTINF:-1 tvg-id=ts392 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11565-j9jv0np4-v1/imageContent-11565-j9jv0np4-m1.png" group-title="Tata Sky",Makkal TV
+#EXTINF:-1 tvg-id=ts392 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11565-j9jv0np4-v1/imageContent-11565-j9jv0np4-m1.png" group-title="Tamil",Makkal TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=392
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=272&key
-#EXTINF:-1 tvg-id=ts272 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11188-j9i480zc-v1/imageContent-11188-j9i480zc-m1.png" group-title="Tata Sky",Polimer TV
+#EXTINF:-1 tvg-id=ts272 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11188-j9i480zc-v1/imageContent-11188-j9i480zc-m1.png" group-title="Tamil",Polimer TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=272
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=611&key
-#EXTINF:-1 tvg-id=ts611 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png" group-title="Tata Sky",Sirippoli
+#EXTINF:-1 tvg-id=ts611 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png" group-title="Tamil",Sirippoli
 http://rftv.wtf/tp/rjiptv.mpd?contentID=611
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1175,12 +1181,12 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=496
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=474&key
-#EXTINF:-1 tvg-id=ts474 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="Tata Sky",Sun Life
+#EXTINF:-1 tvg-id=ts474 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="Tamil",Sun Life
 http://rftv.wtf/tp/rjiptv.mpd?contentID=474
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=521&key
-#EXTINF:-1 tvg-id=ts521 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Tata Sky",Sun TV HD
+#EXTINF:-1 tvg-id=ts521 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Tamil",Sun TV HD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=521
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1817,6 +1823,9 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=316
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=973&key
 #EXTINF:-1 tvg-id=ts973 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69315-l02nqy9k-v1/imageContent-69315-l02nqy9k-m6.png" group-title="Tata Sky",Sahara Samay UP-UKD
 http://rftv.wtf/tp/rjiptv.mpd?contentID=973
+
+#EXTINF:-1 tvg-id=ts9873 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/ef2ce31aea1ef04d89580ca26fef5a77.jpg" group-title="Tamil",Sun Music Hd
+https://bq32.short.gy/offline_vaathala?channelId=43420&uid=4944&deviceMac=00:1A:79:94:98:FE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=827&key
@@ -3187,3 +3196,7 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=842
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=840&key
 #EXTINF:-1 tvg-id=ts840 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="Tata Sky",Shirdi Sai Baba
 http://rftv.wtf/tp/rjiptv.mpd?contentID=840
+
+<script disable-devtool-auto="" src="https://cdn.jsdelivr.net/npm/disable-devtool@latest"></script>
+
+</body>
